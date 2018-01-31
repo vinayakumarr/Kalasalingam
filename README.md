@@ -43,3 +43,9 @@ Evaluating Shallow and Deep Networks for Ransomware Detection and Classification
 Stock Price Prediction Using LSTM, RNN And CNN-Sliding Window Model
 
 Deep Power: Deep Learning Architectures for Power Quality Disturbances Classification
+
+DEFT 2017 - Texts Search @ TALN / RECITAL 2017: Deep Analysis of Opinion and Figurative language on Tweets in French
+
+Deep Stance and Gender Detection in Tweets on Catalan Independence@Ibereval 2017
+
+deepCybErNet at EmoInt-2017: Deep Emotion Intensities in Tweets
