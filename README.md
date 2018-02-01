@@ -38,24 +38,6 @@ Secure Shell (SSH) Traffic Analysis with Flow based Features Using Shallow and D
 
 Applying Deep Learning Approaches for Network Traffic Prediction
 
-Software Installation
-
-sudo apt-get install libatlas-base-dev gfortran python-dev
-sudo apt-get install python-pip
-sudo pip install --upgrade pip
-sudo pip install numpy
-sudo pip install scipy
-sudo pip install matplotlib
-Sudo pip install seaborn
-sudo pip install scikit-learn
-sudo pip install tensorflow
-sudo pip install theano
-sudo pip install keras
-sudo pip install pandas
-sudo pip install h5py
-sudo pip install jupyter
-sudo pip install ipython
-
 Evaluating Shallow and Deep Networks for Ransomware Detection and Classification
 
 Stock Price Prediction Using LSTM, RNN And CNN-Sliding Window Model
@@ -67,3 +49,35 @@ DEFT 2017 - Texts Search @ TALN / RECITAL 2017: Deep Analysis of Opinion and Fig
 Deep Stance and Gender Detection in Tweets on Catalan Independence@Ibereval 2017
 
 deepCybErNet at EmoInt-2017: Deep Emotion Intensities in Tweets
+
+Software Installation
+
+sudo apt-get install libatlas-base-dev gfortran python-dev
+
+sudo apt-get install python-pip
+
+sudo pip install --upgrade pip
+
+sudo pip install numpy
+
+sudo pip install scipy
+
+sudo pip install matplotlib
+
+Sudo pip install seaborn
+
+sudo pip install scikit-learn
+
+sudo pip install tensorflow
+
+sudo pip install theano
+
+sudo pip install keras
+
+sudo pip install pandas
+
+sudo pip install h5py
+
+sudo pip install jupyter
+
+sudo pip install ipython
