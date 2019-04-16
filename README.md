@@ -1,5 +1,7 @@
 # Kalasalingam
 
+<a href="https://zenodo.org/badge/latestdoi/119650467"><img src="https://zenodo.org/badge/119650467.svg" alt="DOI"></a>
+
 Please cite the following papers, if you use the code as part of your research
 
 Real-Time Detection of Atrial Fibrillation from Short Time Single Lead ECG Traces Using Recurrent Neural Networks
